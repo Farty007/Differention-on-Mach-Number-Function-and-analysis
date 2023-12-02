@@ -6,4 +6,4 @@ This code is made to understand the pyhsical methods to do differenation in comp
 This is done on the Prnadtl Meyer Function,
 
 ** Prandtl - Meyer Angle **
-$$\left(\sqrt{(\gamma+1)/(\gamma-1)}$$
+$$\left(\sqrt{(\gamma+1)/(\gamma-1)}\right$$
